@@ -1,5 +1,8 @@
 # GoogleInterstitialAd
 *google fullscreen Ad
+
+
+![DropAlert](https://github.com/RMohanRaj/GoogleInterstitialAd/blob/master/Ad.png)
 * needs to install pod first,
 ```
 pod init
